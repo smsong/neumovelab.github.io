@@ -19,7 +19,8 @@ order: 1
 		<strong>Seungmoon Song</strong><br>
 		Assistant Professor<br>
 		Mechanical Engineering<br>
-		s.song@northeastern.edu<br>
+		<font size="3">since Jan 2022</font><font size="6"><br></font>		
+		s.song@northeastern.edu<font size="6"><br></font>
 		<a href="http://seungmoon.com/" target="_blank"><i class="fa fa-home"></i></a>&nbsp;
 		<a href="
 		https://scholar.google.com/citations?user=Ca2lQs8AAAAJ&hl=en" target="_blank">
@@ -46,8 +47,8 @@ order: 1
 		<p>
 		<strong>Chun Kwang Tan</strong><br>
 		Mechanical Engineering<br>
-		NeuMover in Feb 2023<br>
-		riodren.tan@gmail.com<br>
+		<font size="3">in Feb 2023</font><font size="6"><br></font>
+		riodren.tan@gmail.com<font size="6"><br></font>
 		<a href="
 		https://scholar.google.com/citations?user=Qi8y8W4AAAAJ&hl=en" target="_blank">
 		<i class="ai ai-google-scholar-square"></i></a>&nbsp;
@@ -73,8 +74,8 @@ order: 1
 		<p>
 		<strong>Morteza Khosrotabar</strong><br>
 		Mechanical Engineering<br>
-		NeuMover in Feb 2023<br>
-		khosrotabar.m@northeastern.edu<br>
+		<font size="3">in Jan 2023</font><font size="6"><br></font>
+		khosrotabar.m@northeastern.edu<font size="6"><br></font>
 		<a href="
 		https://scholar.google.com/citations?user=LQ75ksUAAAAJ&hl=en" target="_blank">
 		<i class="ai ai-google-scholar-square"></i></a>&nbsp;
@@ -100,8 +101,8 @@ order: 1
 		<p>
 		<strong>Guangping Liu</strong><br>
 		Mechanical Engineering<br>
-		NeuMover since May 2022<br>
-		liu.guangp@northeastern.edu<br>
+		<font size="3">since May 2022</font><font size="6"><br></font>
+		liu.guangp@northeastern.edu<font size="6"><br></font>
 		</p>
 	</div>
 </div>
@@ -114,8 +115,8 @@ order: 1
 		<p>
 		<strong>Jayston Menezes</strong><br>
 		Mechanical Engineering<br>
-		NeuMover since May 2022<br>
-		menezes.j@northeastern.edu<br>
+		<font size="3">since May 2022</font><font size="6"><br></font>
+		menezes.j@northeastern.edu<font size="6"><br></font>
 		</p>
 	</div>
 </div>
