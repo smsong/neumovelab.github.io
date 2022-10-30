@@ -1,4 +1,4 @@
-started from [Prologue Jekll theme](https://github.com/chrisbobbe/jekyll-theme-prologueupdate)
+started from [Prologue Jekll theme](https://github.com/chrisbobbe/jekyll-theme-prologue)
 
 
 update date in `_config.yml`
