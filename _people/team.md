@@ -19,8 +19,7 @@ order: 1
 		<strong>Seungmoon Song</strong><br>
 		Assistant Professor<br>
 		Mechanical Engineering<br>
-		<font size="3">since Jan 2022</font><font size="6"><br></font>		
-		s.song@northeastern.edu<font size="6"><br></font>
+		s.song@northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="http://seungmoon.com/" target="_blank"><i class="fa fa-home"></i></a>&nbsp;
 		<a href="
 		https://scholar.google.com/citations?user=Ca2lQs8AAAAJ&hl=en" target="_blank">
@@ -28,7 +27,8 @@ order: 1
 		<a href="
 		https://twitter.com/SeungmoonS" target="_blank"><i class="fa-brands fa-twitter"></i></a>&nbsp;
 		<a href="
-		https://github.com/smsong" target="_blank"><i class="fa-brands fa-github"></i></a>
+		https://github.com/smsong" target="_blank"><i class="fa-brands fa-github"></i></a><br>
+		<font style="font-size: 80%">since Jan 2022</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
@@ -47,14 +47,14 @@ order: 1
 		<p>
 		<strong>Chun Kwang Tan</strong><br>
 		Mechanical Engineering<br>
-		<font size="3">in Feb 2023</font><font size="6"><br></font>
-		riodren.tan@gmail.com<font size="6"><br></font>
+		riodren.tan@gmail.com<font style="font-size: 250%"><br></font>
 		<a href="
 		https://scholar.google.com/citations?user=Qi8y8W4AAAAJ&hl=en" target="_blank">
 		<i class="ai ai-google-scholar-square"></i></a>&nbsp;
 		<a href="
 		https://jp.linkedin.com/in/chun-kwang-tan-a806412b" target="_blank">
-		<i class="fa-brands fa-linkedin"></i></a>
+		<i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">in Feb 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
@@ -74,14 +74,14 @@ order: 1
 		<p>
 		<strong>Morteza Khosrotabar</strong><br>
 		Mechanical Engineering<br>
-		<font size="3">in Jan 2023</font><font size="6"><br></font>
-		khosrotabar.m@northeastern.edu<font size="6"><br></font>
+		khosrotabar.m@northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="
 		https://scholar.google.com/citations?user=LQ75ksUAAAAJ&hl=en" target="_blank">
 		<i class="ai ai-google-scholar-square"></i></a>&nbsp;
 		<a href="
 		https://ir.linkedin.com/in/mortybiomech" target="_blank">
-		<i class="fa-brands fa-linkedin"></i></a>
+		<i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">in Jan 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
@@ -101,8 +101,8 @@ order: 1
 		<p>
 		<strong>Guangping Liu</strong><br>
 		Mechanical Engineering<br>
-		<font size="3">since May 2022</font><font size="6"><br></font>
-		liu.guangp@northeastern.edu<font size="6"><br></font>
+		liu.guangp@northeastern.edu<font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">since May 2022</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
@@ -115,8 +115,8 @@ order: 1
 		<p>
 		<strong>Jayston Menezes</strong><br>
 		Mechanical Engineering<br>
-		<font size="3">since May 2022</font><font size="6"><br></font>
-		menezes.j@northeastern.edu<font size="6"><br></font>
+		menezes.j@northeastern.edu<font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">since May 2022</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
