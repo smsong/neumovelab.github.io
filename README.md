@@ -9,7 +9,6 @@ http://127.0.0.1:4000/
 
 To do:
 - test Google analytics
-- neumove.org
 - font awesome 6
 - '_sections/facility'
 	- lab space
