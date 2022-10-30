@@ -6,4 +6,4 @@ auto-header: none
 order: 3
 ---
 
-Coming soon <i class="fa fa-smile"></i>
+Coming soon <i class="fa-regular fa-face-smile"></i>
