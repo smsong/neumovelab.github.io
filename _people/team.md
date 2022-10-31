@@ -29,7 +29,7 @@ order: 1
 
 		<a href="https://github.com/smsong" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
 
-		<a href="/assets/people/cv_seungmoon_song.pdf" target="_blank" title="CV" rel="noreferrer noopener"><i class="ai ai-cv"></i></a><br>
+		<a href="/assets/people/cv_seungmoon_song.pdf" target="_blank" title="CV"><i class="ai ai-cv"></i></a><br>
 
 		<font style="font-size: 80%">since Jan 2022</font><font style="font-size: 250%"><br></font>
 		</p>
