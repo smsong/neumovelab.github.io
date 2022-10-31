@@ -7,6 +7,10 @@ bundle install\
 bundle exec jekyll s\
 http://127.0.0.1:4000/
 
+
+Academicons: https://jpswalsh.github.io/academicons/
+
+
 To do:
 - font awesome 6
 - '_sections/facility'
