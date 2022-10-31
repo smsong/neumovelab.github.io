@@ -8,7 +8,6 @@ bundle exec jekyll s\
 http://127.0.0.1:4000/
 
 To do:
-- test Google analytics
 - font awesome 6
 - '_sections/facility'
 	- lab space
