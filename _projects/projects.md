@@ -6,7 +6,7 @@ layout: page
 order: 2
 ---
 
-<div class="projects">
+<div class="regular">
 	<strong><a href="https://sites.google.com/view/myochallenge" target="_blank">NeurIPS 2022: Myochallenge</a></strong>
 	<ul>
 		<li>Role: co-organizer</li>

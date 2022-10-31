@@ -276,10 +276,15 @@
 			}
 		}
 	}
-/* Projects */
-	.projects {
+/* Regular left align pages */
+	.regular {
 			float: left;
 			text-align: left;
+			
+		ul, li {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
 	}
 
 /* Image */
