@@ -123,7 +123,6 @@ order: 1
 </div>
 </div>
 
-<div style="clear: both;" />
 
 <!--
 ![Seungmoon Song](/assets/people/seungmoon_song_2022.jpg){: .people}
