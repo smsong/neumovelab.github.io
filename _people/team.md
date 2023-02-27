@@ -56,7 +56,7 @@ order: 1
 
 		<a href="https://jp.linkedin.com/in/chun-kwang-tan-a806412b" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
 
-		<font style="font-size: 80%">in Feb 2023</font><font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">since Feb 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
@@ -64,7 +64,7 @@ order: 1
 
 <br>
 
-
+<!--
 ### **Doctoral Students**
 
 <div class="group">
@@ -89,7 +89,7 @@ order: 1
 </div>
 
 <br>
-
+-->
 
 ### **Master's Students**
 
@@ -117,6 +117,19 @@ order: 1
 		<strong>Jayston Menezes</strong><br>
 		Mechanical Engineering<br>
 		menezes.j@northeastern.edu<font style="font-size: 250%"><br></font>
+
+		<a href="https://jayston-menezes.github.io/Portfolio/" target="_blank"><i class="fa fa-home"></i></a>&nbsp;
+
+		<a href="
+		https://www.linkedin.com/in/jayston-menezes/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
+
+		<a href="
+		https://github.com/jayston-menezes" target="_blank"><i class="fa-brands fa-github"></i></a>&nbsp;
+		
+		<a href="
+		https://scholar.google.com/citations?user=NzSb5UsAAAAJ&hl=en" target="_blank">
+		<i class="ai ai-google-scholar-square"></i></a><br>
+		
 		<font style="font-size: 80%">since May 2022</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
