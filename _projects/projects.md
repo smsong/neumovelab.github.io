@@ -7,9 +7,8 @@ order: 2
 ---
 
 <div class="regular">
-	<strong><a href="https://sites.google.com/view/myochallenge" target="_blank">NeurIPS 2022: Myochallenge</a></strong>
+	<strong><a href="https://sites.google.com/view/myosuite" target="_blank">MyoSuite: contact-rich framework for musculoskeletal motor control</a></strong>
 	<ul>
-		<li>Role: co-organizer</li>
-		<li>Team: Meta AI, U of Twente, Northeastern U</li>
+		<li>In collaboration with: Meta AI, University of Twente, McGill University</li>
 	</ul>
 </div>

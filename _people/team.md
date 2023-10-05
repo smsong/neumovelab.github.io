@@ -22,7 +22,7 @@ order: 1
 		s.song[at]northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="http://seungmoon.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
 		<a href="https://scholar.google.com/citations?user=Ca2lQs8AAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="https://twitter.com/SeungmoonS" target="_blank"><i class="fa-brands fa-twitter" title="twitter"></i></a>&nbsp;
+		<a href="https://twitter.com/SeungmoonS" target="_blank"><i class="fa-brands fa-x-twitter" title="twitter"></i></a>&nbsp;
 		<a href="https://github.com/smsong" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
 		<a href="/assets/people/cv_seungmoon_song.pdf" target="_blank" title="CV"><i class="ai ai-cv"></i></a><br>
 		<font style="font-size: 80%">since Jan 2022</font><font style="font-size: 250%"><br></font>
@@ -55,47 +55,50 @@ order: 1
 
 <br>
 
-<!--
+
 ### **Doctoral Students**
 
 <div class="group">
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/phd_2023_morteza_khosrotabar.jpg" />
+		<img src="/assets/people/phd_2023_saleh_faghfoorian.png" />
 	</div>
 	<div class="spec">
 		<p>
-		<strong>Morteza Khosrotabar</strong><br>
+		<strong>Saleh Faghfoorian</strong><br>
 		Mechanical Engineering<br>
-		khosrotabar.m@northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://scholar.google.com/citations?user=LQ75ksUAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="https://ir.linkedin.com/in/mortybiomech" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">in Jan 2023</font><font style="font-size: 250%"><br></font>
+		faghfoorian.m[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://saleh-faghfoorian.github.io/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://github.com/saleh-faghfoorian" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/saleh-faghfoorian/" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/phd_2023_rish_rastogi.jpg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Rish Rastogi</strong><br>
+		Mechanical Engineering<br>
+		rastogi.ris[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://scholar.google.com/citations?user=9VaxSEgAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/rastor18/" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
 </div>
 
 <br>
--->
+
 
 ### **Master's Students**
 
 <div class="group">
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/ms_2022_guangping_liu.jpg" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Guangping Liu</strong><br>
-		Mechanical Engineering<br>
-		liu.guangp[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<font style="font-size: 80%">since May 2022</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
 <div class="people">
 	<div class="photo">
 		<img src="/assets/people/ms_2022_jayston_menezes.jpg" />
@@ -107,13 +110,69 @@ order: 1
 		menezes.j[at]northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="https://jayston-menezes.github.io/Portfolio/" target="_blank"><i class="fa fa-home"></i></a>&nbsp;
 		<a href="
-		https://www.linkedin.com/in/jayston-menezes/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
-		<a href="
-		https://github.com/jayston-menezes" target="_blank"><i class="fa-brands fa-github"></i></a>&nbsp;		
+		https://www.linkedin.com/in/jayston-menezes" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
+		<a href="https://github.com/jayston-menezes" target="_blank"><i class="fa-brands fa-github"></i></a>&nbsp;		
 		<a href="
 		https://scholar.google.com/citations?user=NzSb5UsAAAAJ&hl=en" target="_blank">
 		<i class="ai ai-google-scholar-square"></i></a><br>		
 		<font style="font-size: 80%">since May 2022</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ms_2023_vincent_ton.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Vincent Ton</strong><br>
+		Mechanical Engineering<br>
+		ton.v[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="www.linkedin.com/in/vincentvton" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
+		<a href="https://twitter.com/VincentVTTon" target="_blank"><i class="fa-brands fa-x-twitter" title="twitter"></i></a><br>
+		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+</div>
+
+<br>
+
+
+### **Undergraduate Students**
+
+<div class="group">
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/undergrad_2023_ezekiel_kaplan.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Ezekiel Kaplan</strong><br>
+		Mechanical Engineering<br>
+		kaplan.ez[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">since May 2023</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+</div>
+
+<br>
+
+
+### **Highschool Students**
+
+<div class="group">
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/highschool_2023_chinmayi_goyal.jpeg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Chinmayi Goyal</strong><br>
+		Yorktown High School, NY<font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">since Jan 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
