@@ -6,8 +6,8 @@ auto-header: none
 ---
 
 
-NeuMove is looking for\
-**graduate students** and **postdocs** enthusiastic in\
+NeuMove is seeking\
+**undergraduates**, **graduates** and **postdocs** enthusiastic in\
 **neuromechanical simulation**, motor control,\
 **leg exoskeletons**, rehabilitation robotics,\
 **gait experiments**, biomechanics,\
