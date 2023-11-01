@@ -15,7 +15,13 @@ NeuMove is looking for\
 \
 Find potential projects below,\
 and send your **CV** to `s.song@northeastern.edu`\
-to further discuss.
+to further discuss.\
+\
+If you are a Northeastern undergraduate or Master's student,\
+join our study groups to learn lab materials.\
+After mastering them in a semester or two,\
+you'll be invited to join the lab\
+and work on your own or existing projects.
 
 <div class="regular">
 	<strong>Potential projects:</strong>
