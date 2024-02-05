@@ -1268,7 +1268,7 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="-11"
+     inkscape:window-y="-8"
      inkscape:window-x="1912"
      inkscape:window-height="1009"
      inkscape:window-width="1920"
@@ -1276,9 +1276,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="-4772.9706"
-     inkscape:cx="6224.7491"
-     inkscape:zoom="0.22627418"
+     inkscape:cy="-6788.2248"
+     inkscape:cx="3231.6988"
+     inkscape:zoom="0.45254836"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1301,6 +1301,14 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.422089px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 766.33287,-1813.2075 v 79.2964 h 222.4368 v -79.2964 z"
+       id="path14771"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\s.song\projects\neumovelab.github.io\assets\images\neumove_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g1908"
        inkscape:export-filename="C:\Users\s.song\projects\neumovelab.github.io\assets\images\overview.png"
@@ -1876,6 +1884,49 @@
          inkscape:export-filename="C:\Users\s.song\Dropbox\0_applications\present\fig_2022\overview_new_3_0.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g14969"
+       inkscape:export-filename="C:\Users\s.song\projects\neumovelab.github.io\assets\images\neumove_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.78px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476249"
+         x="986.65344"
+         y="-1757.9138"
+         id="text1598"
+         inkscape:export-filename="C:\Users\s.song\projects\neumovelab.github.io\assets\images\twitter_header.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1596"
+           style="font-size:17.78px;line-height:1;text-align:end;text-anchor:end;fill:#585858;fill-opacity:1;stroke-width:0.476249"
+           x="986.65344"
+           y="-1757.9138">The Neuromechanics</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:17.78px;line-height:1;text-align:end;text-anchor:end;fill:#585858;fill-opacity:1;stroke-width:0.476249"
+           x="986.65344"
+           y="-1740.1338"
+           id="tspan2416">of Movement Laboratory</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:45.2956px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13239"
+         x="775.81653"
+         y="-1778.4017"
+         id="text1606"
+         inkscape:export-filename="C:\Users\s.song\projects\neumovelab.github.io\assets\images\twitter_header.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1604"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Florencesans SC';-inkscape-font-specification:'Florencesans SC Bold';stroke-width:1.13239"
+           x="775.81653"
+           y="-1778.4017"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Florencesans SC';-inkscape-font-specification:'Florencesans SC Bold';fill:#c8102e;fill-opacity:1;stroke-width:1.13239"
+             id="tspan1600">Neu</tspan><tspan
+             style="font-style:italic;stroke-width:1.13239"
+             id="tspan1602">Move</tspan></tspan></text>
     </g>
   </g>
 </svg>
