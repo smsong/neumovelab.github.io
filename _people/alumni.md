@@ -12,7 +12,7 @@ auto-header: none
 <div class="group">
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/ms_2022_guangping_liu.jpg" />
+		<img src="/assets/people/alumni_ms_2022_guangping_liu.jpg" />
 	</div>
 	<div class="spec">
 		<p>

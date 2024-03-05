@@ -6,8 +6,7 @@ auto-header: none
 ---
 
 
-NeuMove is seeking\
-**undergraduates**, **graduates** and **postdocs** enthusiastic in\
+NeuMove is seeking members enthusiastic about\
 **neuromechanical simulation**, motor control,\
 **leg exoskeletons**, rehabilitation robotics,\
 **gait experiments**, biomechanics,\
@@ -17,11 +16,11 @@ Find potential projects below,\
 and send your **CV** to `s.song@northeastern.edu`\
 to further discuss.\
 \
-If you are a Northeastern undergraduate or Master's student,\
-join our study groups to learn lab materials.\
-After mastering them in a semester or two,\
-you'll be invited to join the lab\
-and work on your own or existing projects.
+If you're a Northeastern undergraduate or Master's student, \
+you can get involved with our lab through specialized study groups. \
+After excelling in these groups over one or two semesters, \
+you will be invited to join our lab \
+and contribute to ongoing projects or possibly start your own.
 
 <div class="regular">
 	<strong>Potential projects:</strong>

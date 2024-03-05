@@ -51,6 +51,21 @@ order: 1
 		</p>
 	</div>
 </div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/postdoc_2024_fabio_izzi.jpeg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Fabio Izzi</strong><br>
+		Mechanical Engineering<br>
+		f.izzi[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://scholar.google.com/citations?user=xvlJPPoAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a><br>
+		<font style="font-size: 80%">since March 2024</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
 </div>
 
 <br>
@@ -161,7 +176,30 @@ order: 1
 <br>
 
 
-### **Highschool Students**
+### **Visiting Students**
+
+<div class="group">
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/visiting_phd_2024_onorato_dAngelis.jpg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Onorato d'Angelis</strong><br>
+		Campus Bio-Medico di Roma, Italia<br>
+		onorato.dangelis[at]unicampus.it<font style="font-size: 250%"><br></font>
+		<a href="https://scholar.google.com/citations?user=FV510mQAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/onorato-d%E2%80%99angelis-7830771a8/" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Feb 2023</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+</div>
+
+<br>
+
+
+### **Highschool Research Interns**
 
 <div class="group">
 <div class="people">
