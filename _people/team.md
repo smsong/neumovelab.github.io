@@ -61,7 +61,9 @@ order: 1
 		<strong>Fabio Izzi</strong><br>
 		Mechanical Engineering<br>
 		f.izzi[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://scholar.google.com/citations?user=xvlJPPoAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a><br>
+		<a href="https://scholar.google.com/citations?user=xvlJPPoAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/fabio-izzi/?originalSubdomain=de" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
+		<a href="https://twitter.com/fi_izzi" target="_blank"><i class="fa-brands fa-x-twitter" title="twitter"></i></a><br>
 		<font style="font-size: 80%">since March 2024</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
