@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Project Pages
+title: Links
 icon: fa-link
 auto-header: none
 order: 4

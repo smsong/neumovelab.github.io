@@ -1,0 +1,1 @@
+0_papers.svg > Export PNG Image (Shift + Ctrl + E) > Image size Width: 1200 pixels at 67.5 dpi

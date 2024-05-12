@@ -21,6 +21,8 @@ To do:
 	- once have group photo
 		- cover-photo: assets/images/overview.png
 		- cover-photo-alt: overview image
-- Publication (once have publication)
-	- change style as Projects
-		- `_sass/jekyll-theme-prologue.scss` > `.projects`
+- Facility?
+- Publications
+	- link project pages
+- Links
+	- collaborative projects and tutorials

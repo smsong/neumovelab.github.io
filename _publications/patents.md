@@ -1,7 +1,8 @@
 ---
 title: Conference Proceedings
 icon: fa-pencil-square-o
-order: 3
+auto-header: none
+order: 4
 hide: true
 ---
 

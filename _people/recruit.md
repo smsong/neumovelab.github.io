@@ -12,16 +12,17 @@ NeuMove is seeking members enthusiastic about\
 **gait experiments**, biomechanics,\
 **deep reinforcement learning**, machine learning.\
 \
-Find potential projects below,\
-and send your **CV** to `s.song@northeastern.edu`\
-to further discuss.\
-\
-If you're a Northeastern undergraduate or Master's student, \
+If you are a Northeastern undergraduate or Master's student, \
 you can get involved with our lab through specialized study groups. \
 After excelling in these groups over one or two semesters, \
 you will be invited to join our lab \
-and contribute to ongoing projects or possibly start your own.
+and contribute to ongoing projects or possibly start your own.\
+\
+Send your **CV** to Dr. Song at\
+`s.song[at]northeastern.edu`\
+for further discussion.
 
+<!--
 <div class="regular">
 	<strong>Potential projects:</strong>
 	<br><br>
@@ -79,3 +80,4 @@ and contribute to ongoing projects or possibly start your own.
 		</ul>
 	</ul>
 </div>
+-->

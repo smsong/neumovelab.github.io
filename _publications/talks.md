@@ -1,6 +1,7 @@
 ---
 title: Talks
 icon: fa-podcast
+auto-header: none
 order: 4
 hide: true
 ---

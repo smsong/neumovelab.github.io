@@ -258,7 +258,7 @@
 			float: center;
 			width: 170px;
 			height: 170px;
-			border-radius:50%;
+			border-radius:5px;
 		}
 
 		.spec {
@@ -277,6 +277,75 @@
 			}
 		}
 	}
+
+/* Publications */
+	.publication-header h2 {
+	  font-size: 1.0em;
+	  margin-top: 0em;
+	  margin-bottom: 0em;
+	}
+
+	.publications {
+	  display: flex;
+	  flex-wrap: wrap;
+	  align-items: center;
+	  justify-content: center;
+	  padding: 10px 0;
+
+	  .publication {
+	    width: 100%;
+	    padding: 10px 0;
+
+	    &:after {
+	      content: "";
+	      display: table;
+	      clear: both;
+	    }
+
+	    .image {
+		  float: left;
+		  width: 180px; // Increase total width to accommodate padding
+		  height: 120px; // Maintain 4:3 ratio height
+		  padding-right: 20px; // Space to separate from info
+
+		  img {
+		    width: 160px; // Actual image width
+		    height: 100%; // Fill the height of the container
+		    object-fit: cover;
+		    border-radius: 5px;
+		  }
+		}
+
+		.info {
+		  float: left;
+		  width: calc(100% - 200px); // Adjusted to account for the image width including padding
+		  text-align: left;
+		  font-size: 0.8em;
+		  line-height: 1.00em;
+		  height: 120px; // Matching the image height
+		  display: flex;
+		  flex-direction: column;
+		  justify-content: center;
+		}
+
+		.links {
+		  display: flex;
+		  flex-wrap: nowrap;
+		  align-items: center; // Centers links vertically
+		  gap: 10px;
+
+		  a {
+		    display: inline-block; // Change to inline-block for better control
+		    text-decoration: none;
+		    border-bottom: 1px dotted;
+		    &:hover {
+		      text-decoration: underline;
+		    }
+		  }
+		}
+	  }
+	}
+
 /* Regular left align pages */
 	.regular {
 			float: left;

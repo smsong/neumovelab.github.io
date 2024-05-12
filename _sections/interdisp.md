@@ -1,14 +1,13 @@
 ---
-title: Mission
+title: Interdisciplinary Research
 auto-header: none
 icon: fa-comment
-order: 1
-hide: true
+order: 3
 ---
 
-Bridge biomechanics, neuroscience,\
-robotics, and machine learning\
-to study and improve human movement
+We bridge **biomechanics**, **neuroscience**,\
+**robotics**, and **machine learning**\
+to study and improve **human movement**.
 
 ![overview](/assets/projects/overview.png){: class="fit"}
 
@@ -19,5 +18,3 @@ to study and improve human movement
         margin: auto;
     }
 </style>
-
-

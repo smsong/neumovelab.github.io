@@ -54,7 +54,7 @@ order: 1
 
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/postdoc_2024_fabio_izzi.jpeg" />
+		<img src="/assets/people/postdoc_2024_fabio_izzi.jpg" />
 	</div>
 	<div class="spec">
 		<p>
@@ -108,6 +108,39 @@ order: 1
 		</p>
 	</div>
 </div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/phd_2024_calder_robbins.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Calder Robbins</strong><br>
+		Mechanical Engineering<br>
+		robbins.cal[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://people.umass.edu/cnrobbins/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/calder-robbins-0b2a7621b" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Sep 2024</font><font style="font-size: 250%"><br></font>		
+		</p>
+	</div>
+</div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/phd_2024_hyoungseo_son.jpg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Hyoungseo Son</strong><br>
+		Mechanical Engineering<br>
+		son.hyo[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://son-engr-kr.github.io/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;		
+		<a href="https://github.com/son-engr-kr" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/hyoungseo-son-b0b93a283/?originalSubdomain=kr" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Sep 2024</font><font style="font-size: 250%"><br></font>		
+		</p>
+	</div>
+</div>
 </div>
 
 <br>
@@ -118,27 +151,6 @@ order: 1
 <div class="group">
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/ms_2022_jayston_menezes.jpg" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Jayston Menezes</strong><br>
-		Mechanical Engineering<br>
-		menezes.j[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://jayston-menezes.github.io/Portfolio/" target="_blank"><i class="fa fa-home"></i></a>&nbsp;
-		<a href="
-		https://www.linkedin.com/in/jayston-menezes" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
-		<a href="https://github.com/jayston-menezes" target="_blank"><i class="fa-brands fa-github"></i></a>&nbsp;		
-		<a href="
-		https://scholar.google.com/citations?user=NzSb5UsAAAAJ&hl=en" target="_blank">
-		<i class="ai ai-google-scholar-square"></i></a><br>		
-		<font style="font-size: 80%">since May 2022</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-<div class="people">
-	<div class="photo">
 		<img src="/assets/people/ms_2023_vincent_ton.png" />
 	</div>
 	<div class="spec">
@@ -146,8 +158,9 @@ order: 1
 		<strong>Vincent Ton</strong><br>
 		Mechanical Engineering<br>
 		ton.v[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="www.linkedin.com/in/vincentvton" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
-		<a href="https://twitter.com/VincentVTTon" target="_blank"><i class="fa-brands fa-x-twitter" title="twitter"></i></a><br>
+		<a href="https://vincentton.weebly.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://scholar.google.com/citations?user=gGU-8ToAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+		<a href="www.linkedin.com/in/vincentvton" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
@@ -169,6 +182,8 @@ order: 1
 		<strong>Ezekiel Kaplan</strong><br>
 		Mechanical Engineering<br>
 		kaplan.ez[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="
+		https://www.linkedin.com/in/ezekiel-kaplan-8a4040206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since May 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
@@ -212,6 +227,8 @@ order: 1
 		<p>
 		<strong>Chinmayi Goyal</strong><br>
 		Yorktown High School, NY<font style="font-size: 250%"><br></font>
+		<a href="
+		https://www.linkedin.com/in/chinmayi-goyal-942b872a5/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Jan 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
