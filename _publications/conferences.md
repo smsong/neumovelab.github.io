@@ -36,7 +36,7 @@ hide: false
     <div><em>GM Bryan, PW Franks, S Song, & SH Collins</em></div>
     <div><i>ICRA</i>, 2024</div>
     <div class="links">
-      <i>Accepted; links will be available soon.</i>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10611676" target="_blank">Paper</a>
     </div>
   </div>
 </div>
