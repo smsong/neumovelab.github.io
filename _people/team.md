@@ -76,22 +76,6 @@ order: 1
 ### **Doctoral Students**
 
 <div class="group">
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/phd_2023_saleh_faghfoorian.png" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Saleh Faghfoorian</strong><br>
-		Mechanical Engineering<br>
-		faghfoorian.m[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://saleh-faghfoorian.github.io/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
-		<a href="https://github.com/saleh-faghfoorian" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
-		<a href="https://www.linkedin.com/in/saleh-faghfoorian/" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
 
 <div class="people">
 	<div class="photo">
