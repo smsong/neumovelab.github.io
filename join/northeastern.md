@@ -24,7 +24,7 @@ p {
 </style>
 
 
-If you are an undergraduate or master's student at Northeastern University, you can engage with our lab by either 1) participating in **study groups** or by 2) **collaborating with NeuMovers** on ongoing projects.
+If you are an undergraduate or master's student at Northeastern University, you can engage with our lab in two ways: 1) by participating in **study groups**, or 2) by volunteering as a **research intern** and collaborating with NeuMovers.
 
 After reviewing the following information, if you are interested, send your resume and a brief statement of interest to Dr. Song at `s.song[at]northeastern.edu` with the subject line "NeuMove Application".
 
@@ -54,7 +54,7 @@ Commitment:
 
 ---
 
-### **Open Collaboration Projects**
+### **Research Internships**
 &nbsp;
 
 **MyoAssist Project:** Implement assistive devices in MyoSuite
@@ -62,7 +62,7 @@ Commitment:
   - (required) SolidWorks
   - (a plus) Experience with MuJoCo simulator
   - Minimum of 5 hours/week of commitment
-- Skill gained from internship
+- Expected skills gained from internship
   - Building and running models in physics-based simulators
   - Developing exoskeleton controllers
 
@@ -70,8 +70,8 @@ Commitment:
 
 **Exoskeleton Assistant:** Help conduct ankle exoskeleton experiments
 - Commitment:
-  - Minimum of 5 hours/week
-- Skill gained from internship
+  - Minimum of 4 hours/week
+- Expected skills gained from internship
   - Designing and conducting human subject experiments
   - Operating ankle exoskeletons
   - Hands-on experience with gait lab systems (motion capture and metabolic measurement systems)
