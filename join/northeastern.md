@@ -46,7 +46,9 @@ We provide comprehensive study materials and hold weekly office hours, which you
 
 If you have more than one semester remaining until graduation after mastering the materials, you will be invited to become a NeuMover! You will have the opportunity to collaborate on existing projects or develop your own innovative ideas.
 
-**Commitment**: Minimum of 4 hours/week during the study phase and 10 hours/week during the research phase.
+Commitment:
+- Study phase: 4 hours/week or more
+- Research phase: 10 hours/week or more
 
 &nbsp;
 
@@ -59,7 +61,7 @@ If you have more than one semester remaining until graduation after mastering th
 - Qualifications:
   - (required) SolidWorks
   - (a plus) Experience with MuJoCo simulator
-  - Minimum of 5 hours per week of commitment
+  - Minimum of 5 hours/week of commitment
 - Skill gained from internship
   - Building and running models in physics-based simulators
   - Developing exoskeleton controllers
@@ -68,7 +70,7 @@ If you have more than one semester remaining until graduation after mastering th
 
 **Exoskeleton Assistant:** Help conduct ankle exoskeleton experiments
 - Commitment:
-  - Minimum of 5 hours per week
+  - Minimum of 5 hours/week
 - Skill gained from internship
   - Designing and conducting human subject experiments
   - Operating ankle exoskeletons
