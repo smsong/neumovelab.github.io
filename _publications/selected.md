@@ -22,7 +22,8 @@ hide: false
     <div><em>V Ton, D Solav, & S Song</em></div>
     <div><i>BioRob</i>, 2024</div>
     <div class="links">
-      <i>Accepted; links will be available soon.</i>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10719761" target="_blank">Paper</a>
+      <a href="/project/biorob2024_NM-AFO.html" target="_blank">Video</a>
     </div>
   </div>
 </div>
