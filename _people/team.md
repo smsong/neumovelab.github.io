@@ -68,6 +68,7 @@ order: 1
 		</p>
 	</div>
 </div>
+
 </div>
 
 <br>
@@ -88,6 +89,23 @@ order: 1
 		rastogi.ris[at]northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="https://scholar.google.com/citations?user=9VaxSEgAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
 		<a href="https://www.linkedin.com/in/rastor18/" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ms_2023_vincent_ton.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Vincent Ton</strong><br>
+		Mechanical Engineering<br>
+		ton.v[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://vincentton.weebly.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://scholar.google.com/citations?user=gGU-8ToAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+		<a href="www.linkedin.com/in/vincentvton" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
@@ -125,11 +143,12 @@ order: 1
 		</p>
 	</div>
 </div>
+
 </div>
 
 <br>
 
-
+<!--
 ### **Master's Students**
 
 <div class="group">
@@ -152,7 +171,7 @@ order: 1
 </div>
 
 <br>
-
+-->
 
 ### **Undergraduate Students**
 
@@ -166,19 +185,36 @@ order: 1
 		<strong>Ezekiel Kaplan</strong><br>
 		Mechanical Engineering<br>
 		kaplan.ez[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="
-		https://www.linkedin.com/in/ezekiel-kaplan-8a4040206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<a href="https://www.linkedin.com/in/ezekiel-kaplan-8a4040206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since May 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/undergrad_2024_shresht_bhowmick.jpeg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Shresht Bhowmick</strong><br>
+		Computer Science / Linguistics<br>
+		bhowmick.sh[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://www.tetraslam.world/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://github.com/tetraslam" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/shreshtbhowmick" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Nov 2024</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
 </div>
 
 <br>
 
 
 
-### **Highschool Research Interns**
+### **Interns**
 
 <div class="group">
 <div class="people">
@@ -187,15 +223,36 @@ order: 1
 	</div>
 	<div class="spec">
 		<p>
+		Highschool Researcher<br>
 		<strong>Chinmayi Goyal</strong><br>
 		Yorktown High School, NY<font style="font-size: 250%"><br></font>
-		<a href="
-		https://www.linkedin.com/in/chinmayi-goyal-942b872a5/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<a href="https://www.linkedin.com/in/chinmayi-goyal-942b872a5/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Jan 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/illustrator_2024_therese_ton.JPG" />
+	</div>
+	<div class="spec">
+		<p>
+		Scientific Illustrator<br>
+		<strong>Therese Ton</strong><br>
+		MLA in Biotechnology<font style="font-size: 250%"><br></font>
+		Harvard University Extension School<br>
+		hello[at]ttonstudio.com<font style="font-size: 250%"><br></font>
+		<a href="https://www.ttonstudio.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/thereseton/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Sep 2024</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
 </div>
+
+</div>
+
+<br>
 
 
 <!--
