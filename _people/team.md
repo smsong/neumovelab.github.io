@@ -148,30 +148,28 @@ order: 1
 
 <br>
 
-<!--
+
 ### **Master's Students**
 
 <div class="group">
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/ms_2023_vincent_ton.png" />
+		<img src="/assets/people/ms_2025_roman_dowling.jpg" />
 	</div>
 	<div class="spec">
 		<p>
-		<strong>Vincent Ton</strong><br>
-		Mechanical Engineering<br>
-		ton.v[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://vincentton.weebly.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
-		<a href="https://scholar.google.com/citations?user=gGU-8ToAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="www.linkedin.com/in/vincentvton" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Sep 2023</font><font style="font-size: 250%"><br></font>
+		<strong>Roman Dowling</strong><br>
+		Robotics / Mechanical Engineering<br>
+		dowling.r[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://www.linkedin.com/in/romanpdowling/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Jan 2025</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
 </div>
 
 <br>
--->
+
 
 ### **Undergraduate Students**
 

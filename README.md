@@ -2,6 +2,7 @@ started from [Prologue Jekll theme](https://github.com/chrisbobbe/jekyll-theme-p
 
 
 update date in `_config.yml`
+update CV
 
 set up in new machine:
 - install Ruby
