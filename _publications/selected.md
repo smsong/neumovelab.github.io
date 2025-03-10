@@ -15,15 +15,14 @@ hide: false
 
 <div class="publication">
   <div class="image">
-    <img src="/assets/publications/c_2024_AFOsim.png" alt="Image Description">
+    <img src="/assets/publications/c_2025_MyoAssist01.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>Impact of sole designs of offloading AFO on gait dynamics: a predictive neuromechanical simulation study</strong></div>
-    <div><em>V Ton, D Solav, & S Song</em></div>
-    <div><i>BioRob</i>, 2024</div>
+    <div><strong>MyoAssist 0.1: MyoSuite for Dexterity and Agility in Bionic Humans</strong></div>
+    <div><em>CK Tan, ..., & S Song</em></div>
+    <div><i>IEEE ICORR</i>, 2025</div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10719761" target="_blank">Paper</a>
-      <a href="/project/biorob2024_NM-AFO.html" target="_blank">Video</a>
+      <i>accepted</i>
     </div>
   </div>
 </div>

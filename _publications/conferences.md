@@ -15,12 +15,40 @@ hide: false
 
 <div class="publication">
   <div class="image">
+    <img src="/assets/publications/c_2025_MyoAssist01.png" alt="Image Description">
+  </div>
+  <div class="info">
+    <div><strong>MyoAssist 0.1: MyoSuite for Dexterity and Agility in Bionic Humans</strong></div>
+    <div><em>CK Tan, ..., & S Song</em></div>
+    <div><i>IEEE ICORR</i>, 2025</div>
+    <div class="links">
+      <i>accepted</i>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="image">
+    <img src="/assets/publications/c_2025_MedVis.png" alt="Image Description">
+  </div>
+  <div class="info">
+    <div><strong>MedVis Suite: A Framework for MRI Visualization and U-Net-Based Bone Segmentation with In-Depth Evaluation</strong></div>
+    <div><em>M Liu, D Zhang, Y Chen, T Gong, H Kainz, S Song, & J Lee</em></div>
+    <div><i>ICBBB</i>, 2025</div>
+    <div class="links">
+      <a href="https://www.bio-conferences.org/articles/bioconf/abs/2025/14/bioconf_icbbb2025_04001/bioconf_icbbb2025_04001.html" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="image">
     <img src="/assets/publications/c_2024_AFOsim.png" alt="Image Description">
   </div>
   <div class="info">
     <div><strong>Impact of sole designs of offloading AFO on gait dynamics: a predictive neuromechanical simulation study</strong></div>
     <div><em>V Ton, D Solav, & S Song</em></div>
-    <div><i>BioRob</i>, 2024</div>
+    <div><i>IEEE BioRob</i>, 2024</div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10719761" target="_blank">Paper</a>
       <a href="/project/biorob2024_NM-AFO.html" target="_blank">Video</a>
@@ -35,7 +63,7 @@ hide: false
   <div class="info">
     <div><strong>Pilot comparison of customized and generalized hip-knee-ankle exoskeleton torque profiles</strong></div>
     <div><em>GM Bryan, PW Franks, S Song, & SH Collins</em></div>
-    <div><i>ICRA</i>, 2024</div>
+    <div><i>IEEE ICRA</i>, 2024</div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10611676" target="_blank">Paper</a>
     </div>
