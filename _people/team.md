@@ -33,46 +33,6 @@ order: 1
 <!--<div style="clear: both;" />-->
 <br>
 
-### **Postdoctoral Researchers**
-
-<div class="group">
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/postdoc_2023_chun_kwang_tan.jpg" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Chun Kwang Tan</strong><br>
-		Mechanical Engineering<br>
-		chu.tan[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://scholar.google.com/citations?user=Qi8y8W4AAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="https://jp.linkedin.com/in/chun-kwang-tan-a806412b" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Feb 2023</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/postdoc_2024_fabio_izzi.jpg" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Fabio Izzi</strong><br>
-		Mechanical Engineering<br>
-		f.izzi[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://scholar.google.com/citations?user=xvlJPPoAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="https://www.linkedin.com/in/fabio-izzi/?originalSubdomain=de" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
-		<a href="https://twitter.com/fi_izzi" target="_blank"><i class="fa-brands fa-x-twitter" title="twitter"></i></a><br>
-		<font style="font-size: 80%">since March 2024</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-</div>
-
-<br>
-
 
 ### **Doctoral Students**
 
@@ -166,6 +126,21 @@ order: 1
 		</p>
 	</div>
 </div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ms_2025_savannah_macero.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Savannah Macero</strong><br>
+		Robotics / Mechanical Engineering<br>
+		macero.sa[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://www.linkedin.com/in/savannah-macero-26b90a206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Jan 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
 </div>
 
 <br>
@@ -176,7 +151,7 @@ order: 1
 <div class="group">
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/undergrad_2023_ezekiel_kaplan.png" />
+		<img src="/assets/people/ug_2023_ezekiel_kaplan.png" />
 	</div>
 	<div class="spec">
 		<p>
@@ -191,7 +166,7 @@ order: 1
 
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/undergrad_2024_shresht_bhowmick.jpeg" />
+		<img src="/assets/people/ug_2024_shresht_bhowmick.jpeg" />
 	</div>
 	<div class="spec">
 		<p>
@@ -202,6 +177,21 @@ order: 1
 		<a href="https://github.com/tetraslam" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
 		<a href="https://www.linkedin.com/in/shreshtbhowmick" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Nov 2024</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ug_2025_allison_bonner.jpg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Allison Bonner</strong><br>
+		Mechanical Engineering<br>
+		bonner.a[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://www.linkedin.com/in/allison-bonner" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Jan 2025</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
