@@ -15,11 +15,25 @@ hide: false
 
 <div class="publication">
   <div class="image">
+    <img src="/assets/publications/j_2025_Shetty.png" alt="Image Description">
+  </div>
+  <div class="info">
+    <div><strong>Ankle exoskeleton control via data-driven gait estimation for walking, running, and inclines</strong></div>
+    <div><em>PR Shetty, JA Menezes, S Song, AJ Young, & MK Shepherd</em></div>
+    <div><i>IEEE Robotics and Automation Letters</i>, 2025</div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10966219" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="image">
     <img src="/assets/publications/j_2025_Firouzi.png" alt="Image Description">
   </div>
   <div class="info">
     <div><strong>Biomechanical models in the lower-limb exoskeletons development: A review</strong></div>
-    <div><em>V Firouzi, A Seyfarth, S Song, O von Stryk, & M Ahmad Sharbafi</em></div>
+    <div><em>V Firouzi, A Seyfarth, S Song, O von Stryk, & MA Sharbafi</em></div>
     <div><i>Journal of NeuroEngineering and Rehabilitation</i>, 2025</div>
     <div class="links">
       <a href="https://link.springer.com/article/10.1186/s12984-025-01556-5" target="_blank">Paper</a>
