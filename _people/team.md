@@ -163,7 +163,7 @@ order: 1
 		</p>
 	</div>
 </div>
-
+<!--
 <div class="people">
 	<div class="photo">
 		<img src="/assets/people/ug_2024_shresht_bhowmick.jpeg" />
@@ -180,7 +180,7 @@ order: 1
 		</p>
 	</div>
 </div>
-
+-->
 <div class="people">
 	<div class="photo">
 		<img src="/assets/people/ug_2025_allison_bonner.jpg" />
@@ -202,45 +202,7 @@ order: 1
 
 
 
-### **Interns**
 
-<div class="group">
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/highschool_2023_chinmayi_goyal.jpeg" />
-	</div>
-	<div class="spec">
-		<p>
-		Highschool Researcher<br>
-		<strong>Chinmayi Goyal</strong><br>
-		Yorktown High School, NY<font style="font-size: 250%"><br></font>
-		<a href="https://www.linkedin.com/in/chinmayi-goyal-942b872a5/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Jan 2023</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/illustrator_2024_therese_ton.JPG" />
-	</div>
-	<div class="spec">
-		<p>
-		Scientific Illustrator<br>
-		<strong>Therese Ton</strong><br>
-		MLA in Biotechnology<font style="font-size: 250%"><br></font>
-		Harvard University Extension School<br>
-		hello[at]ttonstudio.com<font style="font-size: 250%"><br></font>
-		<a href="https://www.ttonstudio.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
-		<a href="https://www.linkedin.com/in/thereseton/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Sep 2024</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-</div>
-
-<br>
 
 
 <!--
