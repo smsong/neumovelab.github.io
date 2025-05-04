@@ -23,6 +23,7 @@ p {
 }
 </style>
 
+Taking my class, **ME 5374: Neuromechanical simulation of human movement**, in Fall 2025 will be your best opportunity to explore our research area and prepare for potential research involvement.
 
 If you are an undergraduate or master's student at Northeastern University, you can engage with our lab in two ways: 1) by participating in **study groups**, or 2) by volunteering as a **research intern** and collaborating with NeuMovers.
 
