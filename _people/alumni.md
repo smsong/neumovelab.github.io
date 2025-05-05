@@ -131,6 +131,7 @@ auto-header: none
 	</div>
 </div>
 
+<!--
 <div class="people">
 	<div class="photo">
 		<img src="/assets/people/highschool_2023_chinmayi_goyal.jpeg" />
@@ -147,6 +148,7 @@ auto-header: none
 		</p>
 	</div>
 </div>
+-->
 
 </div>
 

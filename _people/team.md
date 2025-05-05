@@ -201,7 +201,27 @@ order: 1
 <br>
 
 
-
+### **Interns**
+ 
+ <div class="group">
+ <div class="people">
+ 	<div class="photo">
+ 		<img src="/assets/people/highschool_2023_chinmayi_goyal.jpeg" />
+ 	</div>
+ 	<div class="spec">
+ 		<p>
+ 		Highschool Researcher<br>
+ 		<strong>Chinmayi Goyal</strong><br>
+ 		Yorktown High School, NY<font style="font-size: 250%"><br></font>
+ 		<a href="https://www.linkedin.com/in/chinmayi-goyal-942b872a5/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+ 		<font style="font-size: 80%">since Jan 2023</font><font style="font-size: 250%"><br></font>
+ 		</p>
+ 	</div>
+ </div>
+ 
+ </div>
+ 
+ <br>
 
 
 
