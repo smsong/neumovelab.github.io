@@ -141,6 +141,23 @@ order: 1
 		</p>
 	</div>
 </div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ms_2025_hariharan_sureshkumar.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Hariharan Sureshkumar</strong><br>
+		Robotics / Computer Science<br>
+		lnu.harih[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://hxriharan.github.io/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/hariharan-suresh/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since May 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
 </div>
 
 <br>
