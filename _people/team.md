@@ -80,7 +80,8 @@ order: 1
 		<strong>Calder Robbins</strong><br>
 		Mechanical Engineering<br>
 		robbins.cal[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://people.umass.edu/cnrobbins/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://cnrobbins.github.io/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
+		<a href="https://scholar.google.com/citations?user=EdbE5wwAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;		
 		<a href="https://www.linkedin.com/in/calder-robbins-0b2a7621b" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Sep 2024</font><font style="font-size: 250%"><br></font>		
 		</p>
