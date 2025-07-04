@@ -24,6 +24,7 @@ order: 1
 		<a href="https://scholar.google.com/citations?user=Ca2lQs8AAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
 		<a href="https://twitter.com/SeungmoonS" target="_blank"><i class="fa-brands fa-x-twitter" title="twitter"></i></a>&nbsp;
 		<a href="https://github.com/smsong" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
+ 		<a href="https://www.linkedin.com/in/seungmoon-song-5506a531" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
 		<a href="/assets/people/cv_seungmoon_song.pdf" target="_blank" title="CV"><i class="ai ai-cv"></i></a><br>
 		<font style="font-size: 80%">since Jan 2022</font><font style="font-size: 250%"><br></font>
 		</p>
