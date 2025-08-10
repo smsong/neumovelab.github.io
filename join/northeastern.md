@@ -25,28 +25,6 @@ p {
 
 
 ---
-### **MyoAssist tutorial: a perfect opportunity to explore our lab’s research!**
-&nbsp;
-
-Join us for a hands-on tutorial on MyoAssist, our open-source musculoskeletal simulation platform for assistive devices. Designed for beginners, the session offers a guided introduction to physics-based simulations, with a focus on gait-assistive exoskeletons.
-
-📍 Behrakis Health Sciences Center, Room 204
-
-📅 Thursday, August 7
-
-⏰ 1:00–4:00 pm
-
-💻 Bring a laptop
-
-🍪 Snacks provided
-
-Open to all Northeastern students and researchers interested in human movement science.
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdG36ayFdwFHpUs7IOijI-gFjMNecVoA0X9IACrsB9CEivyqw/viewform?usp=header">RSVP here</a>.
-
-&nbsp;
-
----
 
 Taking my class, **ME 5374: Neuromechanical simulation of human movement**, in Fall 2025 will be your best opportunity to explore our research area and prepare for potential research involvement.
 
