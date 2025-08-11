@@ -12,3 +12,9 @@ order: 2
 		<li>In collaboration with: Meta AI, University of Twente, McGill University</li>
 	</ul>
 </div>
+
+<br>
+
+<div class="regular">
+	<strong><a href="https://myoassist.neumove.org" target="_blank">MyoAssist: a MyoSuite package for assistive devices</a></strong>
+</div>

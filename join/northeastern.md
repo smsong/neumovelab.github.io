@@ -28,9 +28,36 @@ p {
 
 Taking my class, **ME 5374: Neuromechanical simulation of human movement**, in Fall 2025 will be your best opportunity to explore our research area and prepare for potential research involvement.
 
-If you are an undergraduate or master's student at Northeastern University, you can engage with our lab in two ways: 1) by participating in **study groups**, or 2) by volunteering as a **research intern** and collaborating with NeuMovers.
+If you are an undergraduate or master's student at Northeastern University, you can engage with our lab in two ways: 1) volunteering as a **research intern** and collaborating with NeuMovers, or 2) participating in self-paced **study groups**.
 
 After reviewing the following information, if you are interested, send your resume and a brief statement of interest to Dr. Song at `s.song[at]northeastern.edu` with the subject line "NeuMove Application".
+
+&nbsp;
+
+---
+
+### **Research Internships**
+&nbsp;
+
+**MyoAssist Project:** Implement assistive devices in MyoSuite
+- Qualifications:
+  - (required) Complete the MyoAssist online tutorial: [https://myoassist.neumove.org](https://myoassist.neumove.org)
+  - (a plus) SolidWorks
+  - (a plus) Experience with reinforcement learning
+  - Minimum of 5 hours/week of commitment
+- Expected skills gained from internship
+  - Building and running models in physics-based simulators
+  - Developing exoskeleton controllers
+
+&nbsp;
+
+**Exoskeleton Assistant:** Help conduct ankle exoskeleton experiments
+- Commitment:
+  - Minimum of 4 hours/week
+- Expected skills gained from internship
+  - Designing and conducting human subject experiments
+  - Operating ankle exoskeletons
+  - Hands-on experience with gait lab systems (motion capture and metabolic measurement systems)
 
 &nbsp;
 
@@ -53,29 +80,3 @@ If you have more than one semester remaining until graduation after mastering th
 Commitment:
 - Study phase: 4 hours/week or more
 - Research phase: 10 hours/week or more
-
-&nbsp;
-
----
-
-### **Research Internships**
-&nbsp;
-
-**MyoAssist Project:** Implement assistive devices in MyoSuite
-- Qualifications:
-  - (required) SolidWorks
-  - (a plus) Experience with MuJoCo simulator
-  - Minimum of 5 hours/week of commitment
-- Expected skills gained from internship
-  - Building and running models in physics-based simulators
-  - Developing exoskeleton controllers
-
-&nbsp;
-
-**Exoskeleton Assistant:** Help conduct ankle exoskeleton experiments
-- Commitment:
-  - Minimum of 4 hours/week
-- Expected skills gained from internship
-  - Designing and conducting human subject experiments
-  - Operating ankle exoskeletons
-  - Hands-on experience with gait lab systems (motion capture and metabolic measurement systems)
