@@ -22,7 +22,8 @@ hide: false
     <div><em>CK Tan, ..., & S Song</em></div>
     <div><i>IEEE ICORR</i>, 2025</div>
     <div class="links">
-      <i>accepted</i>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11063089" target="_blank">Paper</a>
+      <a href="https://myoassist.neumove.org/" target="_blank">MyoAssist</a>
     </div>
   </div>
 </div>
