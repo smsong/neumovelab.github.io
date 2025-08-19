@@ -24,59 +24,55 @@ p {
 </style>
 
 
----
+After reviewing the following information, if you are interested, send your **resume** and a brief **statement of interest** to Dr. Song at `s.song[at]northeastern.edu` with the subject line "NeuMove Application".
 
 Taking my class, **ME 5374: Neuromechanical simulation of human movement**, in Fall 2025 will be your best opportunity to explore our research area and prepare for potential research involvement.
 
-If you are an undergraduate or master's student at Northeastern University, you can engage with our lab in two ways: 1) volunteering as a **research intern** and collaborating with NeuMovers, or 2) participating in self-paced **study groups**.
-
-After reviewing the following information, if you are interested, send your resume and a brief statement of interest to Dr. Song at `s.song[at]northeastern.edu` with the subject line "NeuMove Application".
+Undergraduate and master’s students at Northeastern can engage with our lab by volunteering as a **research intern** or pursuing one of our **self-paced study** options. If you have a strong independent idea outside these categories, you are welcome to share it, though we may only accommodate well-developed projects with a solid foundation.
 
 &nbsp;
 
 ---
-
-### **Research Internships**
 &nbsp;
 
-**MyoAssist Project:** Implement assistive devices in MyoSuite
-- Qualifications:
-  - (required) Complete the MyoAssist online tutorial: [https://myoassist.neumove.org](https://myoassist.neumove.org)
-  - (a plus) SolidWorks
-  - (a plus) Experience with reinforcement learning
-  - Minimum of 5 hours/week of commitment
-- Expected skills gained from internship
-  - Building and running models in physics-based simulators
-  - Developing exoskeleton controllers
-
+### **Research Internships**
 &nbsp;
 
 **Exoskeleton Assistant:** Help conduct ankle exoskeleton experiments
 - Commitment:
   - Minimum of 4 hours/week
-- Expected skills gained from internship
-  - Designing and conducting human subject experiments
+- Experience you will gain:
+  - Conducting human subject experiments
   - Operating ankle exoskeletons
-  - Hands-on experience with gait lab systems (motion capture and metabolic measurement systems)
+  - Gaining hands-on experience with gait lab systems (motion capture and metabolic measurement systems)
 
 &nbsp;
 
 ---
+&nbsp;
 
 ### **NeuMove Study Groups**
 &nbsp;
 
-We are providing two study groups for students interested in learning more about our research:
-- **Reflex Group**: Reimplement our reflex-based neuromechanical simulations in Matlab/Simulink or Python/MyoSuite. You will be trained to simulate steady human gait under various conditions (e.g., wearing exoskeletons, musculoskeletal diseases).
-  - <a href="https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP270228">Paper presenting the reflex-based model</a>
-  - <a href="https://youtu.be/ZkOrRcc4dWg?si=zbsGoS9ghmDwdkXB">Video of the reflex-based model</a>
-- **DRL Group**: Study the basics of deep reinforcement learning (DRL) and its application in MyoSuite. You will be trained to apply DRL to produce diverse human movements in Python/MyoSuite.
-  - <a href="https://sites.google.com/view/myosuite">MyoSuite</a>
+We provide three self-paced study options for students interested in learning more about our research. After reaching out to me, you may explore these materials at your own pace with no obligation to complete them.
 
-We provide comprehensive study materials and hold weekly office hours, which you are expected to attend regularly to boost your learning and connect with NeuMovers. These self-paced groups aim for you to master the materials within one semester.
+- **MyoAssist:** Complete the [MyoAssist online tutorial](https://myoassist.neumove.org)
+- **DRL Basics:** Learn the fundamentals of deep reinforcement learning (DRL) and its application in MyoSuite. You will practice applying DRL to generate diverse human movements in Python/MyoSuite.
+  - [MyoSuite](https://sites.google.com/view/myosuite)
+- **Reflex Locomotion Model:** Reimplement our reflex-based neuromechanical simulations in Matlab/Simulink or Python/MyoSuite.
+  - [Paper presenting the reflex-based model](https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP270228)
+  - [Video of the reflex-based model](https://youtu.be/ZkOrRcc4dWg?si=zbsGoS9ghmDwdkXB)
 
-If you have more than one semester remaining until graduation after mastering the materials, you will be invited to become a NeuMover! You will have the opportunity to collaborate on existing projects or develop your own innovative ideas.
+&nbsp;
 
-Commitment:
-- Study phase: 4 hours/week or more
-- Research phase: 10 hours/week or more
+**Process:**
+- Contact Dr. Song and indicate which self-paced study track you’re interested in.
+- Study the provided material and send weekly progress reports (typically completed within one semester).
+- Upon completion, give a presentation to Dr. Song on the studied materials.
+- After successfully completing the study phase (including the presentation), if you have more than 6 months before graduation, you will be invited to officially join the lab, where you could collaborate on ongoing projects or pursue your own research ideas under Dr. Song’s supervision.
+
+&nbsp;
+
+**Expected Commitment:**
+- Study phase: 5+ hours/week (no obligation on either side to start, complete, or continue)
+- Research phase: 10+ hours/week
