@@ -165,7 +165,7 @@ order: 1
 <br>
 
 
-### **Undergraduate Students**
+### **Research Assistant**
 
 <div class="group">
 <div class="people">
@@ -182,6 +182,14 @@ order: 1
 		</p>
 	</div>
 </div>
+
+</div>
+
+<br>
+
+### **Undergraduate Students**
+
+<div class="group">
 <!--
 <div class="people">
 	<div class="photo">
@@ -234,44 +242,7 @@ order: 1
 <br>
 
 
-### **Interns**
  
- <div class="group">
- <div class="people">
- 	<div class="photo">
- 		<img src="/assets/people/highschool_2023_chinmayi_goyal.jpeg" />
- 	</div>
- 	<div class="spec">
- 		<p>
- 		Highschool Researcher<br>
- 		<strong>Chinmayi Goyal</strong><br>
- 		Yorktown High School, NY<font style="font-size: 250%"><br></font>
- 		<a href="https://www.linkedin.com/in/chinmayi-goyal-942b872a5/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
- 		<font style="font-size: 80%">since Jan 2023</font><font style="font-size: 250%"><br></font>
- 		</p>
- 	</div>
- </div>
- 
- <div class="people">
- 	<div class="photo">
- 		<img src="/assets/people/visiting_MS_2025_jun_hyuk_lee.jpg" />
- 	</div>
- 	<div class="spec">
- 		<p>
- 		Visiting MS Student<br>
- 		<strong>Jun Hyuk Lee</strong><br>
- 		Seoul National University, Korea<font style="font-size: 250%"><br></font>
-		<a href="https://scholar.google.com/citations?user=BYGxZ0AAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="https://github.com/Lee-Jun-Hyuk-37" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
- 		<a href="https://www.linkedin.com/in/junhyuklee37/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
- 		<font style="font-size: 80%">Jul &ndash; Aug 2025</font><font style="font-size: 250%"><br></font>
- 		</p>
- 	</div>
- </div>
-
- </div>
- 
- <br>
 
 
 
