@@ -160,6 +160,21 @@ order: 1
 	</div>
 </div>
 
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ms_2025_divya_patel.jpg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Divya Patel</strong><br>
+		AI / Computer Science<br>
+		patel.divyav[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://www.linkedin.com/in/divya-patel-dv213" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Oct 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
 </div>
 
 <br>
