@@ -149,7 +149,7 @@ auto-header: none
 
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/illustrator_2024_therese_ton.JPG" />
+		<img src="/assets/people/alumni/illustrator_2024_therese_ton.JPG" />
 	</div>
 	<div class="spec">
 		<p>
