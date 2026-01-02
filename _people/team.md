@@ -179,29 +179,6 @@ order: 1
 
 <br>
 
-
-### **Research Assistant**
-
-<div class="group">
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/ug_2023_ezekiel_kaplan.png" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Ezekiel Kaplan</strong><br>
-		Mechanical Engineering<br>
-		kaplan.ez[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://www.linkedin.com/in/ezekiel-kaplan-8a4040206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since May 2023</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-</div>
-
-<br>
-
 ### **Undergraduate Students**
 
 <div class="group">

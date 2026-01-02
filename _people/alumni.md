@@ -19,11 +19,14 @@ auto-header: none
 	<div class="spec">
 		<p>
 		<strong>Chun Kwang Tan</strong><br>
-		<font style="font-size: 80%">Next position:<br>
-		Research fellow<br>
-		Nanyang Technological University<br></font>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			Research fellow<br>
+			Nanyang Technological University
+		</span><br>
 		<a href="https://scholar.google.com/citations?user=Qi8y8W4AAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="https://jp.linkedin.com/in/chun-kwang-tan-a806412b" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><font style="font-size: 250%"><br></font>
+		<a href="https://jp.linkedin.com/in/chun-kwang-tan-a806412b" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a>
+		<font style="font-size: 250%"><br></font>
 		<font style="font-size: 80%">Feb 2023 &ndash; Mar 2025</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
@@ -59,16 +62,19 @@ auto-header: none
 	<div class="spec">
 		<p>
 		<strong>Jayston Menezes</strong><br>
-		<font style="font-size: 80%">Next position:<br>
-		Software controls engineer<br>
-		Clarapath<br></font>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			Software controls engineer<br>
+			Clarapath
+		</span><br>
 		<a href="https://jayston-menezes.github.io/Portfolio/" target="_blank"><i class="fa fa-home"></i></a>&nbsp;
 		<a href="
 		https://www.linkedin.com/in/jayston-menezes" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
 		<a href="https://github.com/jayston-menezes" target="_blank"><i class="fa-brands fa-github"></i></a>&nbsp;
 		<a href="
 		https://scholar.google.com/citations?user=NzSb5UsAAAAJ&hl=en" target="_blank">
-		<i class="ai ai-google-scholar-square"></i></a><br>
+		<i class="ai ai-google-scholar-square"></i></a>
+		<font style="font-size: 250%"><br></font>
 		<font style="font-size: 80%">May 2022 &ndash; Apr 2024</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
@@ -80,15 +86,45 @@ auto-header: none
 	<div class="spec">
 		<p>
 		<strong>Guangping Liu</strong><br>
-		<font style="font-size: 80%">Next position:<br>
-		PhD student<br>
-		Saint Louis University<br></font>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			PhD student<br>
+			Saint Louis University
+		</span><br>
 		<a href="
-		https://www.linkedin.com/in/guangping-liu-01355b22b/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		https://www.linkedin.com/in/guangping-liu-01355b22b/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+		<font style="font-size: 250%"><br></font>
 		<font style="font-size: 80%">May 2022 &ndash; Sep 2023</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
+</div>
+
+<br>
+
+
+### **Undergraduate Students**
+
+<div class="group">
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/alumni/ug_2023_ezekiel_kaplan.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Ezekiel Kaplan</strong><br>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			Associate Engineer<br>
+			L3Harris
+		</span><br>
+		<a href="https://www.linkedin.com/in/ezekiel-kaplan-8a4040206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+		<font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">May 2023 &ndash; Nov 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
 </div>
 
 <br>
@@ -155,9 +191,11 @@ auto-header: none
 		<p>
 		<font style="font-size: 80%">Scientific Illustrator Intern<br></font>
 		<strong>Therese Ton</strong><br>
-		<font style="font-size: 80%">Next position:<br>
-		Communications Associate<br>
-		Generate:Biomedicines<br></font>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			Communications Associate<br>
+			Generate:Biomedicines
+		</span><br>
 		<a href="https://www.ttonstudio.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
 		<a href="https://www.linkedin.com/in/thereseton/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><font style="font-size: 250%"><br></font>
 		<font style="font-size: 80%">Sep 2024 &ndash; Apr 2025</font><font style="font-size: 250%"><br></font>
