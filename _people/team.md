@@ -182,24 +182,6 @@ order: 1
 ### **Undergraduate Students**
 
 <div class="group">
-<!--
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/ug_2024_shresht_bhowmick.jpeg" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Shresht Bhowmick</strong><br>
-		Computer Science / Linguistics<br>
-		bhowmick.sh[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://www.tetraslam.world/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
-		<a href="https://github.com/tetraslam" target="_blank"><i class="fa-brands fa-github" title="github"></i></a>&nbsp;
-		<a href="https://www.linkedin.com/in/shreshtbhowmick" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Nov 2024</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
--->
 <div class="people">
 	<div class="photo">
 		<img src="/assets/people/ug_2025_allison_bonner.jpg" />
@@ -225,6 +207,20 @@ order: 1
 		fleck.e[at]northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="https://www.linkedin.com/in/emma-fleck" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Apr 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ug_2025_mark_yang.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Mark Yang</strong><br>
+		Electrical and Computer Engineering<br>
+		yang.mar[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://www.linkedin.com/in/markyang05" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since Sep 2025</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
