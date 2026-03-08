@@ -15,6 +15,20 @@ hide: false
 
 <div class="publication">
   <div class="image">
+    <img src="/assets/publications/j_2026_Firouzi.png" alt="Image Description">
+  </div>
+  <div class="info">
+    <div><strong>Simulating muscle-level energetic cost when humans walk with a passive biarticular thigh exosuit</strong></div>
+    <div><em>V Firouzi, S Song, O von Stryk, A Seyfarth, & MA Sharbafi</em></div>
+    <div><i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i>, 2026</div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11417279" target="_blank">paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="image">
     <img src="/assets/publications/j_2025_Shetty.png" alt="Image Description">
   </div>
   <div class="info">
@@ -22,7 +36,7 @@ hide: false
     <div><em>PR Shetty, JA Menezes, S Song, AJ Young, & MK Shepherd</em></div>
     <div><i>IEEE Robotics and Automation Letters</i>, 2025</div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10966219" target="_blank">Paper</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10966219" target="_blank">paper</a>
     </div>
   </div>
 </div>
@@ -36,7 +50,7 @@ hide: false
     <div><em>V Firouzi, A Seyfarth, S Song, O von Stryk, & MA Sharbafi</em></div>
     <div><i>Journal of NeuroEngineering and Rehabilitation</i>, 2025</div>
     <div class="links">
-      <a href="https://link.springer.com/article/10.1186/s12984-025-01556-5" target="_blank">Paper</a>
+      <a href="https://link.springer.com/article/10.1186/s12984-025-01556-5" target="_blank">paper</a>
     </div>
   </div>
 </div>
@@ -50,7 +64,7 @@ hide: false
     <div><em>AC Dzewaltowski, P Antonellis, A Mohammadzadeh Gonabadi, S Song, & P Malcolm</em></div>
     <div><i>Journal of NeuroEngineering and Rehabilitation</i>, 2024</div>
     <div class="links">
-      <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-024-01424-8" target="_blank">Paper</a>
+      <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-024-01424-8" target="_blank">paper</a>
     </div>
   </div>
 </div>
@@ -64,7 +78,7 @@ hide: false
     <div><em>JG Cashaback, JL Allen, AHY Chou, DJ Lin, MA Price, NK Secerovic, S Song, H Zhang, & HL Miller</em></div>
     <div><i>Journal of NeuroEngineering and Rehabilitation</i>, 2024</div>
     <div class="links">
-      <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-024-01318-9" target="_blank">Paper</a>
+      <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-024-01318-9" target="_blank">paper</a>
     </div>
   </div>
 </div>
@@ -78,7 +92,7 @@ hide: false
     <div><em>A Lakmazaheri*, Song, S*, BB Vuong, B Biskner, DM Kado, & SH Collins</em></div>
     <div><i>Journal of NeuroEngineering and Rehabilitation</i>, 2024</div>
     <div class="links">
-      <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01287-5" target="_blank">Paper</a>
+      <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01287-5" target="_blank">paper</a>
     </div>
   </div>
 </div>

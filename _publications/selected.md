@@ -30,6 +30,23 @@ hide: false
 
 <div class="publication">
   <div class="image">
+    <img src="/assets/publications/c_2026_Exo-Plore.png" alt="Image Description">
+  </div>
+  <div class="info">
+    <div><strong>Exo-Plore: Exploring Exoskeleton Control Space through Human-aligned Simulation</strong></div>
+    <div><em>G Leem, J Lee, J Lee, S Song, & J Won</em></div>
+    <div><i>ICLR</i>, 2026</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2601.22550" target="_blank">arXiv</a>
+      <a href="https://daebangstn.github.io/exo-plore/" target="_blank">Project page</a>
+      <a href="https://github.com/DaebangStn/exo-plore?tab=readme-ov-file" target="_blank">Code</a>
+      <a href="https://imolab-my.sharepoint.com/:f:/g/personal/geonholeem_imo_snu_ac_kr/IgBf_s4c-HLHRaNIwgMId1vfAZdPu9mfUIghLRW0Hr4vOTk?e=hsQIvm" target="_blank">Data</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="image">
     <img src="/assets/publications/j_2024_hiloElder.png" alt="Image Description">
   </div>
   <div class="info">
