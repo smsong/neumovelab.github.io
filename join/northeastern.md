@@ -26,7 +26,7 @@ p {
 
 After reviewing the following information, if you are interested, send your **resume** and a brief **statement of interest** to Dr. Song at `s.song[at]northeastern.edu` with the subject line "NeuMove Application".
 
-Taking my class, **ME 5663: Neuromechanical simulation of human movement**, in Fall 2026 will be your best opportunity to explore our research area and prepare for potential research involvement.
+<!--Taking my class, **ME 5663: Neuromechanical simulation of human movement**, in Fall 2026 will be your best opportunity to explore our research area and prepare for potential research involvement. -->
 
 Undergraduate and master’s students at Northeastern typically begin with either a **research internship** or one of our **self-paced study** options, which serve as an initial phase before joining the lab. Students who demonstrate sufficient progress and commitment during this phase may be invited to contribute more directly to ongoing research.
 
