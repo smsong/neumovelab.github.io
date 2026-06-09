@@ -15,15 +15,14 @@ hide: false
 
 <div class="publication">
   <div class="image">
-    <img src="/assets/publications/c_2025_MyoAssist01.png" alt="Image Description">
+    <img src="/assets/publications/j_2026_obeseNM.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>MyoAssist 0.1: MyoSuite for Dexterity and Agility in Bionic Humans</strong></div>
-    <div><em>CK Tan, ..., & S Song</em></div>
-    <div><i>IEEE ICORR</i>, 2025</div>
+    <div><strong>Predictive Neuromechanical Simulation Explains Gait Biomechanics in Obesity</strong></div>
+    <div><em>CW Choi, S Song, V Ton, SV Gill, & S Song</em></div>
+    <div><i>submitted</i></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11063089" target="_blank">Paper</a>
-      <a href="https://myoassist.neumove.org/" target="_blank">MyoAssist</a>
+      <a href="https://www.biorxiv.org/content/10.64898/2026.06.03.729794v1" target="_blank">bioRxiv</a>
     </div>
   </div>
 </div>
@@ -38,23 +37,24 @@ hide: false
     <div><i>ICLR</i>, 2026</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2601.22550" target="_blank">arXiv</a>
-      <a href="https://daebangstn.github.io/exo-plore/" target="_blank">Project page</a>
-      <a href="https://github.com/DaebangStn/exo-plore?tab=readme-ov-file" target="_blank">Code</a>
-      <a href="https://imolab-my.sharepoint.com/:f:/g/personal/geonholeem_imo_snu_ac_kr/IgBf_s4c-HLHRaNIwgMId1vfAZdPu9mfUIghLRW0Hr4vOTk?e=hsQIvm" target="_blank">Data</a>
+      <a href="https://daebangstn.github.io/exo-plore/" target="_blank">project page</a>
+      <a href="https://github.com/DaebangStn/exo-plore?tab=readme-ov-file" target="_blank">code</a>
+      <a href="https://imolab-my.sharepoint.com/:f:/g/personal/geonholeem_imo_snu_ac_kr/IgBf_s4c-HLHRaNIwgMId1vfAZdPu9mfUIghLRW0Hr4vOTk?e=hsQIvm" target="_blank">data</a>
     </div>
   </div>
 </div>
 
 <div class="publication">
   <div class="image">
-    <img src="/assets/publications/j_2024_hiloElder.png" alt="Image Description">
+    <img src="/assets/publications/c_2025_MyoAssist01.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>Optimizing exoskeleton assistance to improve walking speed and energy economy for older adults</strong></div>
-    <div><em>A Lakmazaheri*, Song, S*, BB Vuong, B Biskner, DM Kado, & SH Collins</em></div>
-    <div><i>Journal of NeuroEngineering and Rehabilitation</i>, 2024</div>
+    <div><strong>MyoAssist 0.1: MyoSuite for Dexterity and Agility in Bionic Humans</strong></div>
+    <div><em>CK Tan, ..., & S Song</em></div>
+    <div><i>IEEE ICORR</i>, 2025</div>
     <div class="links">
-      <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01287-5" target="_blank">Paper</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11063089" target="_blank">paper</a>
+      <a href="https://myoassist.neumove.org/" target="_blank">MyoAssist</a>
     </div>
   </div>
 </div>
