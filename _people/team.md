@@ -114,20 +114,6 @@ order: 1
 ### **Master's Students**
 
 <div class="group">
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/ms_2025_roman_dowling.jpg" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Roman Dowling</strong><br>
-		Robotics / Mechanical Engineering<br>
-		dowling.r[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://www.linkedin.com/in/romanpdowling/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Jan 2025</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
 
 <div class="people">
 	<div class="photo">
@@ -159,7 +145,7 @@ order: 1
 		</p>
 	</div>
 </div>
-
+<!--
 <div class="people">
 	<div class="photo">
 		<img src="/assets/people/ms_2025_divya_patel.jpg" />
@@ -171,6 +157,21 @@ order: 1
 		patel.divyav[at]northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="https://www.linkedin.com/in/divya-patel-dv213" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Oct 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+-->
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/ms_2026_sabari_balan_ganesan.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Sabari Balan Ganesan</strong><br>
+		Engineering Management<br>
+		ganesan.sab[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://linkedin.com/in/sabaribalan1710" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">since May 2026</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
@@ -193,20 +194,6 @@ order: 1
 		bonner.a[at]northeastern.edu<font style="font-size: 250%"><br></font>
 		<a href="https://www.linkedin.com/in/allison-bonner" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">since Jan 2025</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-<div class="people">
-	<div class="photo">
-		<img src="/assets/people/ug_2025_emma_fleck.png" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Emma Fleck</strong><br>
-		Bioengineering<br>
-		fleck.e[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://www.linkedin.com/in/emma-fleck" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Apr 2025</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>

@@ -57,6 +57,20 @@ auto-header: none
 <div class="group">
 <div class="people">
 	<div class="photo">
+		<img src="/assets/people/alumni/ms_2025_roman_dowling.jpg" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Roman Dowling</strong><br>
+		Robotics / Mechanical Engineering<br>
+		dowling.r[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<a href="https://www.linkedin.com/in/romanpdowling/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">Jan 2025 &ndash; Apr 2026</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+<div class="people">
+	<div class="photo">
 		<img src="/assets/people/alumni/ms_2022_jayston_menezes.jpg" />
 	</div>
 	<div class="spec">
@@ -106,6 +120,24 @@ auto-header: none
 ### **Undergraduate Students**
 
 <div class="group">
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/alumni/ug_2025_emma_fleck.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Emma Fleck</strong><br>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			Manufacturing Engineer<br>
+			Abbott Vascular
+		</span><br>
+		<a href="https://www.linkedin.com/in/emma-fleck" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+		<font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">Apr 2025 &ndash; Apr 2026</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
 <div class="people">
 	<div class="photo">
 		<img src="/assets/people/alumni/ug_2023_ezekiel_kaplan.png" />
