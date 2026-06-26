@@ -15,14 +15,16 @@ hide: false
 
 <div class="publication">
   <div class="image">
-    <img src="/assets/publications/j_2026_obeseNM.png" alt="Image Description">
+    <img src="/assets/publications/j_2026_NM4Models.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>Predictive Neuromechanical Simulation Explains Gait Biomechanics in Obesity</strong></div>
-    <div><em>CW Choi, S Song, V Ton, SV Gill, & S Song</em></div>
+    <div><strong>Unified comparison of spinal locomotion control architectures in neuromechanical simulations</strong></div>
+    <div><em>V Ton & S Song</em></div>
     <div><i>submitted</i></div>
     <div class="links">
-      <a href="https://www.biorxiv.org/content/10.64898/2026.06.03.729794v1" target="_blank">bioRxiv</a>
+      <a href="https://www.biorxiv.org/content/10.64898/2026.06.09.731213v1" target="_blank">bioRxiv</a>
+      <a href="https://youtu.be/suMJIfZYe5k?si=GeTNjrnSL4SfAJ-T" target="_blank">video</a>
+      <a href="https://github.com/neumovelab/spinal-locomotion-controllers" target="_blank">code</a>
     </div>
   </div>
 </div>

@@ -13,7 +13,7 @@ hide: false
 
 <div class="publications">
 
-<!--<div class="publication">
+<div class="publication">
   <div class="image">
     <img src="/assets/publications/j_2026_NM4Models.png" alt="Image Description">
   </div>
@@ -22,12 +22,12 @@ hide: false
     <div><em>V Ton & S Song</em></div>
     <div><i>submitted</i></div>
     <div class="links">
-      <a href="https://www.biorxiv.org/content/10.64898/2026.06.03.729794v1" target="_blank">bioRxiv</a>
+      <a href="https://www.biorxiv.org/content/10.64898/2026.06.09.731213v1" target="_blank">bioRxiv</a>
       <a href="https://youtu.be/suMJIfZYe5k?si=GeTNjrnSL4SfAJ-T" target="_blank">video</a>
       <a href="https://github.com/neumovelab/spinal-locomotion-controllers" target="_blank">code</a>
     </div>
   </div>
-</div>-->
+</div>
 
 <div class="publication">
   <div class="image">
@@ -39,6 +39,7 @@ hide: false
     <div><i>submitted</i></div>
     <div class="links">
       <a href="https://www.biorxiv.org/content/10.64898/2026.06.03.729794v1" target="_blank">bioRxiv</a>
+      <a href="https://www.youtube.com/watch?v=igrNXhbCZ6Q" target="_blank">video</a>      
     </div>
   </div>
 </div>
