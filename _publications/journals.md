@@ -18,8 +18,7 @@ hide: false
     <img src="/assets/publications/j_2026_dAngelis.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>Estimating body segment properties for adults across diverse body morphologies: a data-driven geometric
-Framework</strong></div>
+    <div><strong>Estimating body segment properties for adults across diverse body morphologies: a data-driven geometric framework</strong></div>
     <div><em>O  d'Angelis, CW Choi, H Sureshkumar, M Merone, SV Gill, & S Song</em></div>
     <div><i>submitted</i></div>
     <div class="links">
