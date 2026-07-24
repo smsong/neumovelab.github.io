@@ -117,21 +117,6 @@ order: 1
 
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/ms_2025_savannah_macero.png" />
-	</div>
-	<div class="spec">
-		<p>
-		<strong>Savannah Macero</strong><br>
-		Robotics / Mechanical Engineering<br>
-		macero.sa[at]northeastern.edu<font style="font-size: 250%"><br></font>
-		<a href="https://www.linkedin.com/in/savannah-macero-26b90a206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
-		<font style="font-size: 80%">since Jan 2025</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-<div class="people">
-	<div class="photo">
 		<img src="/assets/people/ms_2025_hariharan_sureshkumar.png" />
 	</div>
 	<div class="spec">

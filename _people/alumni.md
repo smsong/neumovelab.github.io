@@ -71,6 +71,23 @@ auto-header: none
 </div>
 <div class="people">
 	<div class="photo">
+		<img src="/assets/people/alumni/ms_2025_savannah_macero.png" />
+	</div>
+	<div class="spec">
+		<p>
+		<strong>Savannah Macero</strong><br>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			Hardware Test Engineer<br>
+			Planet Labs
+		</span><br>
+		<a href="https://www.linkedin.com/in/savannah-macero-26b90a206/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
+		<font style="font-size: 80%">Jan &ndash; Dec 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+<div class="people">
+	<div class="photo">
 		<img src="/assets/people/alumni/ms_2022_jayston_menezes.jpg" />
 	</div>
 	<div class="spec">
@@ -78,7 +95,7 @@ auto-header: none
 		<strong>Jayston Menezes</strong><br>
 		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
 			Next position:<br>
-			Software controls engineer<br>
+			Software Controls Engineer<br>
 			Clarapath
 		</span><br>
 		<a href="https://jayston-menezes.github.io/Portfolio/" target="_blank"><i class="fa fa-home"></i></a>&nbsp;
@@ -201,22 +218,6 @@ auto-header: none
 
 <div class="people">
 	<div class="photo">
-		<img src="/assets/people/alumni/visiting_phd_2024_onorato_dAngelis.jpg" />
-	</div>
-	<div class="spec">
-		<p>
-		<font style="font-size: 80%">Visiting PhD Student<br></font>
-		<strong>Onorato d'Angelis</strong><br>
-		<font style="font-size: 80%">Campus Bio-Medico di Roma, Italia<br></font>
-		<a href="https://scholar.google.com/citations?user=FV510mQAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-		<a href="https://www.linkedin.com/in/onorato-d%E2%80%99angelis-7830771a8/" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><font style="font-size: 250%"><br></font>
-		<font style="font-size: 80%">Feb &ndash; Jul 2024</font><font style="font-size: 250%"><br></font>
-		</p>
-	</div>
-</div>
-
-<div class="people">
-	<div class="photo">
 		<img src="/assets/people/alumni/illustrator_2024_therese_ton.JPG" />
 	</div>
 	<div class="spec">
@@ -231,6 +232,22 @@ auto-header: none
 		<a href="https://www.ttonstudio.com/" target="_blank" title="homepage"><i class="fa fa-home"></i></a>&nbsp;
 		<a href="https://www.linkedin.com/in/thereseton/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><font style="font-size: 250%"><br></font>
 		<font style="font-size: 80%">Sep 2024 &ndash; Apr 2025</font><font style="font-size: 250%"><br></font>
+		</p>
+	</div>
+</div>
+
+<div class="people">
+	<div class="photo">
+		<img src="/assets/people/alumni/visiting_phd_2024_onorato_dAngelis.jpg" />
+	</div>
+	<div class="spec">
+		<p>
+		<font style="font-size: 80%">Visiting PhD Student<br></font>
+		<strong>Onorato d'Angelis</strong><br>
+		<font style="font-size: 80%">Campus Bio-Medico di Roma, Italia<br></font>
+		<a href="https://scholar.google.com/citations?user=FV510mQAAAAJ&hl=en" target="_blank" title="google scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+		<a href="https://www.linkedin.com/in/onorato-d%E2%80%99angelis-7830771a8/" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin"></i></a><font style="font-size: 250%"><br></font>
+		<font style="font-size: 80%">Feb &ndash; Jul 2024</font><font style="font-size: 250%"><br></font>
 		</p>
 	</div>
 </div>
