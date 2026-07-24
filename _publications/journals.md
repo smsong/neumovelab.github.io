@@ -19,7 +19,7 @@ hide: false
   </div>
   <div class="info">
     <div><strong>Estimating body segment properties for adults across diverse body morphologies: a data-driven geometric framework</strong></div>
-    <div><em>O  d'Angelis, CW Choi, H Sureshkumar, M Merone, SV Gill, & S Song</em></div>
+    <div><em>O d'Angelis, CW Choi, H Sureshkumar, M Merone, SV Gill, & S Song</em></div>
     <div><i>submitted</i></div>
     <div class="links">
       <a href="https://www.biorxiv.org/content/10.64898/2026.07.03.736346v1" target="_blank">bioRxiv</a>
