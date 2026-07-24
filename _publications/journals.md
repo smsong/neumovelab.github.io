@@ -15,6 +15,22 @@ hide: false
 
 <div class="publication">
   <div class="image">
+    <img src="/assets/publications/j_2026_dAngelis.png" alt="Image Description">
+  </div>
+  <div class="info">
+    <div><strong>Estimating body segment properties for adults across diverse body morphologies: a data-driven geometric
+Framework</strong></div>
+    <div><em>O  d'Angelis, CW Choi, H Sureshkumar, M Merone, SV Gill, & S Song</em></div>
+    <div><i>submitted</i></div>
+    <div class="links">
+      <a href="https://www.biorxiv.org/content/10.64898/2026.07.03.736346v1" target="_blank">bioRxiv</a>
+      <a href="https://github.com/neumovelab/BodySegmentEstimator" target="_blank">code</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="image">
     <img src="/assets/publications/j_2026_NM4Models.png" alt="Image Description">
   </div>
   <div class="info">
