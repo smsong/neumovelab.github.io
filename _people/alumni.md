@@ -62,8 +62,10 @@ auto-header: none
 	<div class="spec">
 		<p>
 		<strong>Roman Dowling</strong><br>
-		Robotics / Mechanical Engineering<br>
-		dowling.r[at]northeastern.edu<font style="font-size: 250%"><br></font>
+		<span style="font-size: 80%; line-height: 1.1; display: inline-block;">
+			Next position:<br>
+			US Army
+		</span><br>
 		<a href="https://www.linkedin.com/in/romanpdowling/" target="_blank"><i class="fa-brands fa-linkedin"></i></a><br>
 		<font style="font-size: 80%">Jan 2025 &ndash; Apr 2026</font><font style="font-size: 250%"><br></font>
 		</p>
