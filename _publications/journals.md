@@ -49,12 +49,26 @@ hide: false
     <img src="/assets/publications/j_2026_obeseNM.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>Predictive Neuromechanical Simulation Explains Gait Biomechanics in Obesity</strong></div>
+    <div><strong>Predictive neuromechanical simulation explains gait biomechanics in obesity</strong></div>
     <div><em>CW Choi, S Song, V Ton, SV Gill, & S Song</em></div>
     <div><i>submitted</i></div>
     <div class="links">
       <a href="https://www.biorxiv.org/content/10.64898/2026.06.03.729794v1" target="_blank">bioRxiv</a>
       <a href="https://www.youtube.com/watch?v=igrNXhbCZ6Q" target="_blank">video</a>      
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="image">
+    <img src="/assets/publications/j_2026_heliostat.png" alt="Image Description">
+  </div>
+  <div class="info">
+    <div><strong>Heliostat-Integrated modules for engineering courses in robotics, system dynamics, and control</strong></div>
+    <div><em>R Sipahi, L Lessard, SZ Yong, Y Yazicioglu, T Ma, & S Song</em></div>
+    <div><i>ASME Open Journal of Engineering</i>, 2026</div>
+    <div class="links">
+      <a href="https://asmedigitalcollection.asme.org/openengineering/article/doi/10.1115/1.4072212/1234642" target="_blank">paper</a>
     </div>
   </div>
 </div>
