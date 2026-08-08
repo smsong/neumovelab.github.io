@@ -34,7 +34,7 @@ hide: false
     <img src="/assets/publications/c_2026_Exo-Plore.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>Exo-Plore: Exploring Exoskeleton Control Space through Human-aligned Simulation</strong></div>
+    <div><strong>Exo-Plore: Exploring exoskeleton control space through human-aligned simulation</strong></div>
     <div><em>G Leem, J Lee, J Lee, S Song, & J Won</em></div>
     <div><i>ICLR</i>, 2026</div>
     <div class="links">
@@ -51,7 +51,7 @@ hide: false
     <img src="/assets/publications/c_2025_MyoAssist01.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>MyoAssist 0.1: MyoSuite for Dexterity and Agility in Bionic Humans</strong></div>
+    <div><strong>MyoAssist 0.1: MyoSuite for dexterity and agility in bionic humans</strong></div>
     <div><em>CK Tan, ..., & S Song</em></div>
     <div><i>IEEE ICORR</i>, 2025</div>
     <div class="links">

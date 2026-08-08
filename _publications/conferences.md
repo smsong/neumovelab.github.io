@@ -18,7 +18,7 @@ hide: false
     <img src="/assets/publications/c_2026_Exo-Plore.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>Exo-Plore: Exploring Exoskeleton Control Space through Human-aligned Simulation</strong></div>
+    <div><strong>Exo-Plore: Exploring exoskeleton control space through human-aligned simulation</strong></div>
     <div><em>G Leem, J Lee, J Lee, S Song, & J Won</em></div>
     <div><i>ICLR</i>, 2026</div>
     <div class="links">
@@ -35,7 +35,7 @@ hide: false
     <img src="/assets/publications/c_2025_MyoAssist01.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>MyoAssist 0.1: MyoSuite for Dexterity and Agility in Bionic Humans</strong></div>
+    <div><strong>MyoAssist 0.1: MyoSuite for dexterity and agility in bionic humans</strong></div>
     <div><em>CK Tan, ..., & S Song</em></div>
     <div><i>IEEE ICORR</i>, 2025</div>
     <div class="links">
@@ -50,7 +50,7 @@ hide: false
     <img src="/assets/publications/c_2025_MyoChallenge25.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>MyoChallenge 2025: Towards Human Athletic Intelligence</strong></div>
+    <div><strong>MyoChallenge 2025: Towards human athletic intelligence</strong></div>
     <div><em>V Caggiano, et al.</em></div>
     <div><i>NeurIPS 2024 Competition Track</i>, 2025</div>
     <div class="links">
@@ -64,7 +64,7 @@ hide: false
     <img src="/assets/publications/c_2025_MedVis.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>MedVis Suite: A Framework for MRI Visualization and U-Net-Based Bone Segmentation with In-Depth Evaluation</strong></div>
+    <div><strong>MedVis Suite: A framework for MRI visualization and U-Net-based bone segmentation with in-depth evaluation</strong></div>
     <div><em>M Liu, D Zhang, Y Chen, T Gong, H Kainz, S Song, & J Lee</em></div>
     <div><i>ICBBB</i>, 2025</div>
     <div class="links">
@@ -93,7 +93,7 @@ hide: false
     <img src="/assets/publications/c_2024_MyoChallenge24.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>MyoChallenge 2024: Physiological Dexterity and Agility in Bionic Humans</strong></div>
+    <div><strong>MyoChallenge 2024: Physiological dexterity and agility in bionic humans</strong></div>
     <div><em>V Caggiano, et al.</em></div>
     <div><i>NeurIPS 2024 Competition Track</i>, 2024</div>
     <div class="links">
@@ -138,7 +138,7 @@ hide: false
     <img src="/assets/publications/c_2024_MRIUNet.png" alt="Image Description">
   </div>
   <div class="info">
-    <div><strong>MRI Segmentation of Musculoskeletal Components Using U-Net: Preliminary Results</strong></div>
+    <div><strong>MRI segmentation of musculoskeletal components using U-Net: preliminary results</strong></div>
     <div><em>D Vasu, S Song, H Kainz, & J Lee</em></div>
     <div><i>ICBBB</i>, 2024</div>
     <div class="links">
